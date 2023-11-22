@@ -1,0 +1,15 @@
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\bin\Debug\net6.0\GaborAron.exe
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\bin\Debug\net6.0\GaborAron.deps.json
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\bin\Debug\net6.0\GaborAron.runtimeconfig.json
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\bin\Debug\net6.0\GaborAron.dll
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\bin\Debug\net6.0\GaborAron.pdb
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\obj\Debug\net6.0\GaborAron.csproj.AssemblyReference.cache
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\obj\Debug\net6.0\GaborAron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\obj\Debug\net6.0\GaborAron.AssemblyInfoInputs.cache
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\obj\Debug\net6.0\GaborAron.AssemblyInfo.cs
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\obj\Debug\net6.0\GaborAron.csproj.CoreCompileInputs.cache
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\obj\Debug\net6.0\GaborAron.dll
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\obj\Debug\net6.0\refint\GaborAron.dll
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\obj\Debug\net6.0\GaborAron.pdb
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\obj\Debug\net6.0\GaborAron.genruntimeconfig.cache
+C:\Users\orosz.zsombor.oliver\source\repos\GaborAron\obj\Debug\net6.0\ref\GaborAron.dll
